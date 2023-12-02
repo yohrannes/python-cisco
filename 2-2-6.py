@@ -1,0 +1,1 @@
+print("\"Eu sou\"\n\"\"aprendizado\"\"\n\"\"\"Python\"\"\"")
